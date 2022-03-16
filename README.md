@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanisha
 - 👀 I’m interested in Web Development, Graphics Design, UI design
-- 🌱 I’m currently learning C#, React JS, Node JS
+- 🌱 I’m currently learning C#, React JS
 - 📫 How to reach me : tanisha2014kabir@gmail.com
 
 <!---
